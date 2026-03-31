@@ -1,10 +1,10 @@
 <?php
 date_default_timezone_set('Asia/Manila');
 
-define('DB_HOST', 'localhost');
+define('DB_HOST', 'mysql://root:gupptTZUEpRgJfyrLAApSZIrkytXlxtA@mysql.railway.internal:3306/railway');
 define('DB_NAME', 'iscc_lms');
 define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_PASS', 'gupptTZUEpRgJfyrLAApSZIrkytXlxtA');
 define('DB_CHARSET', 'utf8mb4');
 
 define('APP_NAME', 'ISCC LMS');
