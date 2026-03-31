@@ -1,0 +1,95 @@
+{
+    "captured_at": "2026-03-25 00:46:05",
+    "action": "add_attachments",
+    "class_id": 13,
+    "lesson_id": 35,
+    "user_id": 2,
+    "upload_dir": {
+        "relative": "uploads/modules",
+        "absolute": "C:\\xampp\\htdocs\\iscc-lms/uploads/modules",
+        "exists": true,
+        "writable": true
+    },
+    "matching_files_after_request": [
+        {
+            "name": "module_35_1774370765_042597ab9324.png",
+            "size": 2333399,
+            "modified_at": "2026-03-25 00:46:05",
+            "absolute_path": "C:\\xampp\\htdocs\\iscc-lms/uploads/modules/module_35_1774370765_042597ab9324.png"
+        },
+        {
+            "name": "module_35_1774370765_1ee7acc0ea98.png",
+            "size": 1784918,
+            "modified_at": "2026-03-25 00:46:05",
+            "absolute_path": "C:\\xampp\\htdocs\\iscc-lms/uploads/modules/module_35_1774370765_1ee7acc0ea98.png"
+        },
+        {
+            "name": "module_35_1774370765_2d72d4e2c888.png",
+            "size": 1779728,
+            "modified_at": "2026-03-25 00:46:04",
+            "absolute_path": "C:\\xampp\\htdocs\\iscc-lms/uploads/modules/module_35_1774370765_2d72d4e2c888.png"
+        },
+        {
+            "name": "module_35_1774370765_743ec5ee10b5.png",
+            "size": 1993461,
+            "modified_at": "2026-03-25 00:46:05",
+            "absolute_path": "C:\\xampp\\htdocs\\iscc-lms/uploads/modules/module_35_1774370765_743ec5ee10b5.png"
+        },
+        {
+            "name": "module_35_1774370765_b36b79335040.png",
+            "size": 1869873,
+            "modified_at": "2026-03-25 00:46:05",
+            "absolute_path": "C:\\xampp\\htdocs\\iscc-lms/uploads/modules/module_35_1774370765_b36b79335040.png"
+        }
+    ],
+    "client_attachment_count": 5,
+    "client_attachment_names": [
+        "ambassador.png",
+        "captain.png",
+        "assassin.png",
+        "duke.png",
+        "contessa.png"
+    ],
+    "request_files": [
+        {
+            "name": "ambassador.png",
+            "type": "image/png",
+            "size": 1779728,
+            "error": 0,
+            "tmp_name": "C:\\xampp\\tmp\\phpE627.tmp"
+        },
+        {
+            "name": "captain.png",
+            "type": "image/png",
+            "size": 1869873,
+            "error": 0,
+            "tmp_name": "C:\\xampp\\tmp\\phpE647.tmp"
+        },
+        {
+            "name": "assassin.png",
+            "type": "image/png",
+            "size": 1784918,
+            "error": 0,
+            "tmp_name": "C:\\xampp\\tmp\\phpE667.tmp"
+        },
+        {
+            "name": "duke.png",
+            "type": "image/png",
+            "size": 2333399,
+            "error": 0,
+            "tmp_name": "C:\\xampp\\tmp\\phpE6A7.tmp"
+        },
+        {
+            "name": "contessa.png",
+            "type": "image/png",
+            "size": 1993461,
+            "error": 0,
+            "tmp_name": "C:\\xampp\\tmp\\phpE6D7.tmp"
+        }
+    ],
+    "request_file_count": 5,
+    "upload_summary": {
+        "uploaded": 5,
+        "errors": []
+    }
+}

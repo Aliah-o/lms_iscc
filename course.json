@@ -1,0 +1,84 @@
+{
+  "BSIT_Curriculum": {
+    "First_Year": {
+      "First_Semester": [
+        {"code": "UNS", "subject": "Understanding the Self", "units": 3, "prerequisite": "None"},
+        {"code": "MATH", "subject": "Mathematics in the Modern World", "units": 3, "prerequisite": "None"},
+        {"code": "CC101", "subject": "Introduction to Computing", "units": "2/1", "prerequisite": "None"},
+        {"code": "CC102", "subject": "Computer Programming 1 (Fundamentals of Programming)", "units": "2/1", "prerequisite": "None"},
+        {"code": "SP101", "subject": "Social Professional Issues in Computing", "units": 3, "prerequisite": "None"},
+        {"code": "PATHFIT1", "subject": "Physical Activities Toward Health and Fitness 1: Movement Competency Training", "units": 2, "prerequisite": "None"},
+        {"code": "NSTP1/ROTC1", "subject": "Civic Welfare Training Services / Reserve Officers' Training Corps 1", "units": 3, "prerequisite": "None"}
+      ],
+      "Second_Semester": [
+        {"code": "PCOM", "subject": "Purposive Communication", "units": 3, "prerequisite": "None"},
+        {"code": "CC103", "subject": "Computer Programming 2 (Intermediate Programming)", "units": "2/1", "prerequisite": "CC102"},
+        {"code": "PF101", "subject": "Object-Oriented Programming", "units": "2/1", "prerequisite": "CC102"},
+        {"code": "STS", "subject": "Science Technology and Society", "units": 3, "prerequisite": "None"},
+        {"code": "AO101", "subject": "Architecture and Organization", "units": 3, "prerequisite": "None"},
+        {"code": "PATHFIT2", "subject": "Physical Activities Toward Health and Fitness 2: Exercise-based Fitness Activities", "units": 2, "prerequisite": "PATHFIT1"},
+        {"code": "NSTP2/ROTC2", "subject": "Civic Welfare Training Services / Reserve Officers' Training Corps 2", "units": 3, "prerequisite": "NSTP1"}
+      ]
+    },
+
+    "Second_Year": {
+      "First_Semester": [
+        {"code": "CC104", "subject": "Data Structures and Algorithms", "units": "2/1", "prerequisite": "CC103"},
+        {"code": "ICS", "subject": "Ilocano Culture and Society", "units": 3, "prerequisite": "None"},
+        {"code": "WS101", "subject": "Web Development 1", "units": "2/1", "prerequisite": "CC101"},
+        {"code": "CC105", "subject": "Information Management", "units": "2/1", "prerequisite": "None"},
+        {"code": "CC106", "subject": "Applications Development and Emerging Technologies", "units": "2/1", "prerequisite": "None"},
+        {"code": "MAN", "subject": "Life and Works of Rizal", "units": 3, "prerequisite": "None"},
+        {"code": "PATHFIT3", "subject": "Physical Activities Toward Health and Fitness 3: Sports", "units": 2, "prerequisite": "PATHFIT2"}
+      ],
+      "Second_Semester": [
+        {"code": "WS102", "subject": "Web Development 2", "units": "2/1", "prerequisite": "WS101"},
+        {"code": "MA101", "subject": "Mobile Application Development", "units": "2/1", "prerequisite": "None"},
+        {"code": "HCI101", "subject": "Human Computer Interaction", "units": "2/1", "prerequisite": "None"},
+        {"code": "PRACTICUM1", "subject": "Internship (320hrs)", "units": 6, "prerequisite": "2nd year standing"},
+        {"code": "PATHFIT4", "subject": "Physical Activities Toward Health and Fitness 4: Dances", "units": 2, "prerequisite": "PATHFIT3"}
+      ]
+    },
+
+    "Third_Year": {
+      "First_Semester": [
+        {"code": "RPH", "subject": "Readings in Philippine History", "units": 3, "prerequisite": "None"},
+        {"code": "DB101", "subject": "Fundamentals of Database Systems", "units": "2/1", "prerequisite": "CC101"},
+        {"code": "NET101", "subject": "Networking 1", "units": "2/1", "prerequisite": "None"},
+        {"code": "GVC101", "subject": "Graphics and Visual Computing", "units": "2/1", "prerequisite": "None"},
+        {"code": "RM101", "subject": "Research Methodology", "units": 3, "prerequisite": "None"},
+        {"code": "SE101", "subject": "Software Engineering", "units": "2/1", "prerequisite": "None"},
+        {"code": "PHOTO101", "subject": "Photography", "units": "2/1", "prerequisite": "None"}
+      ],
+      "Second_Semester": [
+        {"code": "CW", "subject": "The Contemporary World", "units": 3, "prerequisite": "None"},
+        {"code": "ENVSCI", "subject": "Environmental Science", "units": 3, "prerequisite": "None"},
+        {"code": "NET102", "subject": "Networking 2", "units": "2/1", "prerequisite": "NET101"},
+        {"code": "IPT101", "subject": "Integrative Programming Technologies 1", "units": "2/1", "prerequisite": "CC103"},
+        {"code": "CAP101", "subject": "Capstone Project 1", "units": "2/1", "prerequisite": "RM101"},
+        {"code": "PRACTICUM2", "subject": "Practicum OJT (486hrs)", "units": 6, "prerequisite": "3rd year standing"},
+        {"code": "EMIND", "subject": "Entrepreneurial Mind 1", "units": 3, "prerequisite": "None"}
+      ],
+      "Mid_Year": [
+        {"code": "IAS101", "subject": "Information Assurance and Security 1", "units": 3, "prerequisite": "None"},
+        {"code": "IPT102", "subject": "Integrative Programming Technologies 2", "units": "2/1", "prerequisite": "IPT101"},
+        {"code": "IOT101", "subject": "Internet of Things", "units": "2/1", "prerequisite": "HCI101"}
+      ]
+    },
+
+    "Fourth_Year": {
+      "First_Semester": [
+        {"code": "ARTS", "subject": "Art Appreciation", "units": 3, "prerequisite": "None"},
+        {"code": "GAS", "subject": "Gender and Society", "units": 3, "prerequisite": "None"},
+        {"code": "UED101", "subject": "User Experience Design", "units": "2/1", "prerequisite": "GVC101"},
+        {"code": "CAP102", "subject": "Capstone Project 2", "units": "2/1", "prerequisite": "CAP101"}
+      ],
+      "Second_Semester": [
+        {"code": "ETHICS", "subject": "Ethics", "units": 3, "prerequisite": "None"},
+        {"code": "IAS102", "subject": "Information Assurance and Security 2", "units": "2/1", "prerequisite": "IAS101"},
+        {"code": "SIA101", "subject": "Systems Integration and Architecture", "units": "2/1", "prerequisite": "None"},
+        {"code": "SA101", "subject": "Systems Administration and Maintenance", "units": "2/1", "prerequisite": "NET102"}
+      ]
+    }
+  }
+}
